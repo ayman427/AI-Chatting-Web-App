@@ -22,7 +22,7 @@
                     <option value="google/gemini-2.0-flash-exp:free">Google: Gemini Flash 2.0</option>
                     <option value="meta-llama/llama-3-8b-instruct:free">Meta: Llama 3 8B Instruct</option>
                     <option value="cognitivecomputations/dolphin3.0-r1-mistral-24b:free">Dolphin3.0 R1 Mistral 24B</option>
-                    <option value="deepseek/deepseek-r1-distill-qwen-32b:free">DeepSeek: R1 Distill Qwen 32B</option>
+                    <option value="deepseek/deepseek-chat-v3-0324:free">DeepSeek: DeepSeek V3 0324</option>
                 </flux:select>
             </div>
 
